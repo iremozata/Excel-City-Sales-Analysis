@@ -25,6 +25,18 @@ The project was developed using Microsoft Excel, with a focus on Pivot Tables, K
 - Average Order Value: ₺476.14
 - Average Orders per City: 123.46
 
+## Key Insights
+
+- **Growth Opportunity cities** stand out with the highest total profit of **₺275.8K** and the highest profit margin of **23.59%** across 30 cities. With ₺1.17M in sales, these markets offer strong potential for further growth and investment.
+
+- **Low Priority cities** have the highest total sales at **₺1.27M**, but have the lowest profit margin at **20.64%**. This suggests that high sales volume alone does not indicate a high-priority market and highlights the need for profitability-focused optimization.
+
+- **Problem Market cities** generate the second-highest total sales at **₺1.23M**, while achieving a relatively low profit margin of **20.94%**. These markets may benefit from strategies focused on improving profitability rather than simply increasing sales volume.
+
+- **Core Market cities** achieve a healthy **23.03% profit margin** across 12 cities, indicating a relatively strong and established market base.
+
+- The segmentation highlights the importance of evaluating **sales volume and profitability together**, rather than relying on sales alone when prioritizing markets.
+
 ## Tools & Skills
 
 - Microsoft Excel
