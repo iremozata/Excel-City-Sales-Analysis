@@ -3,6 +3,8 @@ Excel-based sales and profitability analysis for a hypothetical Turkish retail c
 
 ## Project Overview
 
+![Turkey Retail Sales Dashboard](dashboard.png)
+
 This project analyzes 10,000 sales transactions to evaluate sales performance, profitability, regional performance and market opportunities across Turkey.
 The project was developed using Microsoft Excel, with a focus on Pivot Tables, KPI analysis, market segmentation and dashboard visualization.
 
