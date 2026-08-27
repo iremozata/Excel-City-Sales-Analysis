@@ -40,7 +40,7 @@ The project was developed using Microsoft Excel, with a focus on Pivot Tables, K
 
 ## Recommendations
 
-- **Invest** in **Growth Opportunity** cities: These markets combine strong profitability with growth potential. Increasing targeted marketing, customer acquisition and sales efforts could help capture additional market share while maintaining healthy margins.
+-**Invest** in **Growth Opportunity** cities: These markets combine strong profitability with growth potential. Increasing targeted marketing, customer acquisition and sales efforts could help capture additional market share while maintaining healthy margins.
 
 -**Optimize Low Priority** cities: Although these cities generate the highest total sales (₺1.27M), their profit margin is the lowest (20.64%). Rather than focusing solely on increasing sales, businesses should review pricing, discounting and cost efficiency to improve profitability.
 
